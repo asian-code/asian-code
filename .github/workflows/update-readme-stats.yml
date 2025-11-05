@@ -1,0 +1,40 @@
+name: Update README Stats
+
+on:
+  schedule:
+    # Run every Sunday at 00:00 UTC
+    - cron: '0 0 * * 0'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Update README timestamp
+        run: |
+          # Add a comment with timestamp to trigger README refresh
+          # This ensures the stats widgets reload with fresh data
+          echo "<!-- Stats updated on $(date -u +'%Y-%m-%d %H:%M:%S UTC') -->" >> README.md
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          # Check if there are changes to commit
+          if git diff --quiet && git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git add README.md
+            git commit -m "chore: update README stats [skip ci]"
+            git push
+          fi
