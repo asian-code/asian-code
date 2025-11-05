@@ -86,7 +86,7 @@
 
 ### Cloud Certifications
 <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate" width="100" height="100" />
-<img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Azure Administrator Associate" width="100" height="100" />
+<img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/image.png" alt="Azure Administrator Associate" width="100" height="100" />
 <img src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="HashiCorp Terraform Associate" width="100" height="100" />
 
 ### Security & Network Certifications
@@ -94,9 +94,10 @@
 <img src="https://images.credly.com/size/340x340/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" alt="CompTIA Network+" width="100" height="100" />
 
 ### 📚 Certifications in Progress
-<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/certified-kubernetes/cka/color/cka-color.svg" alt="CKA" width="100" height="100" />
-<img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Professional" width="100" height="100" style="opacity: 0.6;" />
-<img src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" alt="CISSP" width="100" height="100" style="opacity: 0.6;" />
+<img src="https://training.linuxfoundation.org/wp-content/uploads/2019/03/logo_cka_whitetext-300x300.png" alt="CKA" width="100" height="100" style="opacity: 0.7;" />
+<img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-AI-Practitioner_badge.4c5bcc6ed0d649c765a1e2d6e80f30cbb0ebc2ac.png" alt="AWS AI Practitioner" width="100" height="100" style="opacity: 0.7;" />
+<img src="https://images.credly.com/size/340x340/images/2030e43f-8003-4d4b-9630-847add403c87/image.png" alt="AWS Solutions Architect Professional" width="100" height="100" style="opacity: 0.7;" />
+<img src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" alt="CISSP" width="100" height="100" style="opacity: 0.7;" />
 
 ### Security Frameworks
 **NIST Cybersecurity Framework** | **CIS Controls** | **OWASP Top 10** | **Zero Trust Architecture**
