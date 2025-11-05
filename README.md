@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Asian Code!
 
-### Software Developer | Cloud Engineer | AI Infrastructure Specialist | Open Source Contributor
+### Software Developer | Cloud & Security Engineer | AI Infrastructure Specialist | Open Source Contributor
 
 [![Profile Views](https://komarev.com/ghpvc/?username=asian-code&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/asian-code)
 
@@ -12,14 +12,15 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on cloud infrastructure and scalable AI applications
-- ☁️ Specializing in cloud architecture, DevOps, and containerization
-- 🤖 Building AI infrastructure and integrating LLM-powered solutions at scale
-- 🌱 I'm currently learning advanced cloud-native and AI technologies
-- 👯 I'm looking to collaborate on open source projects, cloud solutions, and AI infrastructure
-- 💬 Ask me about web development, cloud engineering, AI infrastructure, DevOps, and IaC
+- 🔭 I'm currently working on secure cloud infrastructure and scalable AI applications
+- ☁️ Specializing in cloud architecture, DevSecOps, and containerization
+- 🔒 Implementing cloud security, compliance frameworks, and zero trust architecture
+- 🤖 Building secure AI infrastructure and integrating LLM-powered solutions at scale
+- 🌱 I'm currently learning advanced cloud-native, AI, and security technologies
+- 👯 I'm looking to collaborate on open source projects, cloud solutions, and secure infrastructure
+- 💬 Ask me about web development, cloud security, DevSecOps, AI infrastructure, and IaC
 - 📫 How to reach me: Check out my social links below
-- ⚡ Fun fact: I love coding, solving complex problems, and automating everything
+- ⚡ Fun fact: I love coding, solving complex problems, and automating everything securely
 
 ---
 
@@ -66,10 +67,33 @@
 ![Claude](https://img.shields.io/badge/Claude-181818?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
+### Security & Compliance
+![AWS Security](https://img.shields.io/badge/AWS_Security-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure Security](https://img.shields.io/badge/Azure_Security-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
+![Falco](https://img.shields.io/badge/Falco-00ADEF?style=for-the-badge&logo=falco&logoColor=white)
+![HashiCorp Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-000000?style=for-the-badge&logo=auth0&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust-FF6B6B?style=for-the-badge&logo=security&logoColor=white)
+
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+---
+
+## 🎓 Certifications & Frameworks
+
+<div align="center">
+
+![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
+![CISSP](https://img.shields.io/badge/CISSP-00A86B?style=for-the-badge&logo=isc2&logoColor=white)
+
+### Security Frameworks
+**NIST Cybersecurity Framework** | **CIS Controls** | **OWASP Top 10** | **Zero Trust Architecture**
 
 </div>
 
