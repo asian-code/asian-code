@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=24&height=200&section=header&text=Cloud%20%26%20Security%20Engineer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Building%20Secure%20Infrastructure%20%7C%20AI%20Solutions&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:3b82f6&height=200&section=header&text=Cloud%20Security%20Engineer&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
 # 👋 Hi, I'm Eric!
 
