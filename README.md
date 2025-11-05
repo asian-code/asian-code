@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Asian Code!
 
-### Software Developer | Cloud Engineer | Tech Enthusiast | Open Source Contributor
+### Software Developer | Cloud Engineer | AI Infrastructure Specialist | Open Source Contributor
 
 [![Profile Views](https://komarev.com/ghpvc/?username=asian-code&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/asian-code)
 
@@ -12,11 +12,12 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on cloud infrastructure and scalable applications
+- 🔭 I'm currently working on cloud infrastructure and scalable AI applications
 - ☁️ Specializing in cloud architecture, DevOps, and containerization
-- 🌱 I'm currently learning advanced cloud-native technologies and best practices
-- 👯 I'm looking to collaborate on open source projects and cloud solutions
-- 💬 Ask me about web development, cloud engineering, DevOps, and infrastructure as code
+- 🤖 Building AI infrastructure and integrating LLM-powered solutions at scale
+- 🌱 I'm currently learning advanced cloud-native and AI technologies
+- 👯 I'm looking to collaborate on open source projects, cloud solutions, and AI infrastructure
+- 💬 Ask me about web development, cloud engineering, AI infrastructure, DevOps, and IaC
 - 📫 How to reach me: Check out my social links below
 - ⚡ Fun fact: I love coding, solving complex problems, and automating everything
 
@@ -57,6 +58,13 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+### AI & Machine Learning
+![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-181818?style=for-the-badge&logo=anthropic&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
