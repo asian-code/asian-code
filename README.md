@@ -92,19 +92,18 @@
 <div align="center">
 
 ### Cloud Certifications
-![AWS Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure Administrator](https://img.shields.io/badge/Azure_Administrator-AZ--104-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Terraform Associate](https://img.shields.io/badge/HashiCorp_Terraform-Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+<img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate" width="100" height="100" />
+<img src="https://images.credly.com/size/340x340/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png" alt="Azure Administrator Associate" width="100" height="100" />
+<img src="https://images.credly.com/size/340x340/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" alt="HashiCorp Terraform Associate" width="100" height="100" />
 
 ### Security & Network Certifications
-![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
-![CompTIA Network+](https://img.shields.io/badge/CompTIA_Network+-007ACC?style=for-the-badge&logo=comptia&logoColor=white)
+<img src="https://images.credly.com/size/340x340/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" alt="CompTIA Security+" width="100" height="100" />
+<img src="https://images.credly.com/size/340x340/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png" alt="CompTIA Network+" width="100" height="100" />
 
 ### 📚 Certifications in Progress
-![CKA](https://img.shields.io/badge/CKA-In_Progress-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS AI Practitioner](https://img.shields.io/badge/AWS_AI_Practitioner-In_Progress-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![CISSP](https://img.shields.io/badge/CISSP-In_Progress-00A86B?style=for-the-badge&logo=isc2&logoColor=white)
-![AWS SA Pro](https://img.shields.io/badge/AWS_Solutions_Architect-Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/certified-kubernetes/cka/color/cka-color.svg" alt="CKA" width="100" height="100" />
+<img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Professional" width="100" height="100" style="opacity: 0.6;" />
+<img src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" alt="CISSP" width="100" height="100" style="opacity: 0.6;" />
 
 ### Security Frameworks
 **NIST Cybersecurity Framework** | **CIS Controls** | **OWASP Top 10** | **Zero Trust Architecture**
