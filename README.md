@@ -1,8 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:3b82f6&height=200&section=header&text=Cloud%20Security%20Engineer&fontSize=50&fontColor=ffffff&animation=fadeIn)
-
-# 👋 Hi, I'm Eric!
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:3b82f6&height=200&section=header&text=Hi,%20I'm%20Eric!%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
 ### Software Developer | Cloud & Security Engineer | AI Infrastructure Specialist | Open Source Contributor
 
@@ -142,6 +140,6 @@
 
 ### ⭐️ From [asian-code](https://github.com/asian-code)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:3b82f6&height=100&section=footer)
 
 </div>
