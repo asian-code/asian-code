@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Asian Code!
 
-### Software Developer | Tech Enthusiast | Open Source Contributor
+### Software Developer | Cloud Engineer | Tech Enthusiast | Open Source Contributor
 
 [![Profile Views](https://komarev.com/ghpvc/?username=asian-code&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/asian-code)
 
@@ -12,12 +12,13 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on exciting projects
-- 🌱 I'm currently learning new technologies and best practices
-- 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about web development, software engineering, and technology
+- 🔭 I'm currently working on cloud infrastructure and scalable applications
+- ☁️ Specializing in cloud architecture, DevOps, and containerization
+- 🌱 I'm currently learning advanced cloud-native technologies and best practices
+- 👯 I'm looking to collaborate on open source projects and cloud solutions
+- 💬 Ask me about web development, cloud engineering, DevOps, and infrastructure as code
 - 📫 How to reach me: Check out my social links below
-- ⚡ Fun fact: I love coding and solving complex problems
+- ⚡ Fun fact: I love coding, solving complex problems, and automating everything
 
 ---
 
@@ -40,12 +41,22 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
-### Tools & Platforms
+### Cloud Platforms
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
