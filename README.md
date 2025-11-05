@@ -91,8 +91,14 @@
 
 <div align="center">
 
+### Cloud Certifications
+![AWS Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure Administrator](https://img.shields.io/badge/Azure_Administrator-AZ--104-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Terraform Associate](https://img.shields.io/badge/HashiCorp_Terraform-Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+### Security & Network Certifications
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
-![CISSP](https://img.shields.io/badge/CISSP-00A86B?style=for-the-badge&logo=isc2&logoColor=white)
+![CompTIA Network+](https://img.shields.io/badge/CompTIA_Network+-007ACC?style=for-the-badge&logo=comptia&logoColor=white)
 
 ### Security Frameworks
 **NIST Cybersecurity Framework** | **CIS Controls** | **OWASP Top 10** | **Zero Trust Architecture**
