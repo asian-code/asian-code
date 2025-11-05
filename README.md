@@ -1,8 +1,10 @@
 <div align="center">
-  
-# 👋 Hi, I'm Asian Code!
+
+# 👋 Hi, I'm Eric!
 
 ### Software Developer | Cloud & Security Engineer | AI Infrastructure Specialist | Open Source Contributor
+
+[![Website](https://img.shields.io/badge/🌐_Visit_My_Website-eric--n.com-4285F4?style=for-the-badge)](https://eric-n.com)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=asian-code&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/asian-code)
 
