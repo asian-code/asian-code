@@ -100,6 +100,12 @@
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
 ![CompTIA Network+](https://img.shields.io/badge/CompTIA_Network+-007ACC?style=for-the-badge&logo=comptia&logoColor=white)
 
+### 📚 Certifications in Progress
+![CKA](https://img.shields.io/badge/CKA-In_Progress-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS AI Practitioner](https://img.shields.io/badge/AWS_AI_Practitioner-In_Progress-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CISSP](https://img.shields.io/badge/CISSP-In_Progress-00A86B?style=for-the-badge&logo=isc2&logoColor=white)
+![AWS SA Pro](https://img.shields.io/badge/AWS_Solutions_Architect-Professional-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 ### Security Frameworks
 **NIST Cybersecurity Framework** | **CIS Controls** | **OWASP Top 10** | **Zero Trust Architecture**
 
