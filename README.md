@@ -129,40 +129,6 @@
 
 ---
 
-## 🎯 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asian-code&repo=asian-code&theme=radical&hide_border=true)](https://github.com/asian-code/asian-code)
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asian-code)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asian-code)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/asian_code)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asian.code@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://asian-code.github.io)
-
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
 <div align="center">
 
 ### ⭐️ From [asian-code](https://github.com/asian-code)
