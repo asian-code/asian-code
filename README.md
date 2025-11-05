@@ -1,5 +1,7 @@
 <div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=24&height=200&section=header&text=Cloud%20%26%20Security%20Engineer&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Building%20Secure%20Infrastructure%20%7C%20AI%20Solutions&descAlignY=55&descSize=20)
+
 # 👋 Hi, I'm Eric!
 
 ### Software Developer | Cloud & Security Engineer | AI Infrastructure Specialist | Open Source Contributor
