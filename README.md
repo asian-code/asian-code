@@ -2,9 +2,11 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:3b82f6&height=200&section=header&text=Hi,%20I'm%20Eric!%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
-### Software Developer | Cloud & Security Engineer | AI Infrastructure Specialist | Open Source Contributor
+### Cloud DevOps Engineer | AWS & Azure Infrastructure Specialist
 
 [![Website](https://img.shields.io/badge/🌐_Visit_My_Website-eric--n.com-4285F4?style=for-the-badge)](https://eric-n.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eric-nguyenit)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@eric-n.com)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=asian-code&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/asian-code)
 
@@ -14,15 +16,26 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently working on secure cloud infrastructure and scalable AI applications
-- ☁️ Specializing in cloud architecture, DevSecOps, and containerization
-- 🔒 Implementing cloud security, compliance frameworks, and zero trust architecture
-- 🤖 Building secure AI infrastructure and integrating LLM-powered solutions at scale
-- 🌱 I'm currently learning advanced cloud-native, AI, and security technologies
-- 👯 I'm looking to collaborate on open source projects, cloud solutions, and secure infrastructure
-- 💬 Ask me about web development, cloud security, DevSecOps, AI infrastructure, and IaC
-- 📫 How to reach me: Check out my social links below
-- ⚡ Fun fact: I love coding, solving complex problems, and automating everything securely
+Cloud DevOps Engineer with over 4 years of experience architecting, automating, and operating secure, scalable, multi-cloud infrastructure on AWS and Azure. Specialist in CI/CD automation, containerization, Kubernetes orchestration, microservices, cloud-native architectures, GitOps (ArgoCD), IaC (Terraform), and enterprise observability.
+
+### 🎯 Current Focus
+- 🔭 **Currently:** Cloud DevOps Engineer at Royal Caribbean
+- ☁️ Managing enterprise AWS infrastructure with 99.9%+ uptime across production workloads
+- 🚀 Building reusable Terraform IaC modules for multi-cloud standardization
+- 🔒 Implementing comprehensive security controls and compliance frameworks
+- 🤖 Automating cloud resource provisioning and CI/CD workflows
+- 🌱 Pursuing CKA, AWS Solutions Architect Professional, and CISSP certifications
+
+### 🏆 Key Achievements
+- ⚡ Reduced AWS account provisioning time by **98%** (3+ days to 10 minutes)
+- 📦 Migrated **10,000+ resources** across **170 AWS accounts** to Infrastructure as Code
+- 🎯 Delivered platforms with **99.99%+ uptime** and **70%+ faster deployments**
+- 🔧 Cut deployment time by **40-50%** through Terraform automation
+
+### 💡 What I Do
+- 💬 Ask me about: Multi-cloud architecture, Kubernetes, Terraform, CI/CD, GitOps, cloud security
+- 👯 Looking to collaborate on: Open source DevOps tools, cloud infrastructure, and automation
+- 📫 Reach me at: contact@eric-n.com
 
 ---
 
@@ -31,50 +44,50 @@
 <div align="center">
 
 ### Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### Frameworks & Libraries
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Cloud Platforms
+### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white)
 
-### AI & Machine Learning
-![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-181818?style=for-the-badge&logo=anthropic&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+### CI/CD & GitOps
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+
+### Container & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+
+### Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
 
 ### Security & Compliance
-![AWS Security](https://img.shields.io/badge/AWS_Security-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure Security](https://img.shields.io/badge/Azure_Security-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
-![Falco](https://img.shields.io/badge/Falco-00ADEF?style=for-the-badge&logo=falco&logoColor=white)
 ![HashiCorp Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
-![OAuth](https://img.shields.io/badge/OAuth_2.0-000000?style=for-the-badge&logo=auth0&logoColor=white)
+![AWS Secrets Manager](https://img.shields.io/badge/AWS_Secrets_Manager-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM_&_RBAC-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Zero Trust](https://img.shields.io/badge/Zero_Trust-FF6B6B?style=for-the-badge&logo=security&logoColor=white)
+![PCI DSS](https://img.shields.io/badge/PCI_DSS-0066CC?style=for-the-badge&logo=security&logoColor=white)
 
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
 
@@ -84,23 +97,15 @@
 
 <div align="center">
 
-### Cloud Certifications
-![AWS](https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_Administrator-AZ--104-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+### ✅ Active Certifications
+![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect-Associate-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure Admin](https://img.shields.io/badge/Azure_Administrator-AZ--104-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Terraform](https://img.shields.io/badge/HashiCorp_Terraform-Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS AI](https://img.shields.io/badge/AWS_AI_Practitioner-2025-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-### Security & Network Certifications
-![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
-![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network+-007ACC?style=for-the-badge&logo=comptia&logoColor=white)
-
-### 📚 Certifications in Progress
-![CKA](https://img.shields.io/badge/CKA-In_Progress-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS AI](https://img.shields.io/badge/AWS_AI_Practitioner-In_Progress-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![AWS SA Pro](https://img.shields.io/badge/AWS_SA_Professional-In_Progress-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![CISSP](https://img.shields.io/badge/CISSP-In_Progress-00A86B?style=for-the-badge&logo=isc2&logoColor=white)
-
-### Security Frameworks
-**NIST Cybersecurity Framework** | **CIS Controls** | **OWASP Top 10** | **Zero Trust Architecture**
+### 📚 In Progress (Coming Soon)
+![AWS SA Pro](https://img.shields.io/badge/AWS_Solutions_Architect-Professional-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![CKA](https://img.shields.io/badge/Certified_Kubernetes-Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 </div>
 
